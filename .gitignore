@@ -1,0 +1,10 @@
+build/
+dist/
+*.log
+*.tmp
+*.exe
+*.o
+.vscode/
+.idea/
+__pycache__/
+*.sqlite
